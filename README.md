@@ -1,2 +1,2 @@
 # duzzy
-fast date parsing in rust
+fast fuzzy date parsing in rust
